@@ -1,0 +1,37 @@
+.contactBlock {
+    background-color: #f1cfad;
+}
+.contactBlock button {
+    height: 50px;
+    border-radius: 10px;
+    margin: 20px 0 20px 0;
+}
+
+.contactContainer {
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.contactContainer h3 {
+    background-color: seagreen;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 400px;
+    height: 320px;
+}
+.contactContainer form {
+    width: 100%;
+}
+
+.contactForm input {
+    display: inline-block;
+    height: 35px;
+    border-radius: 3px;
+}
+.contactForm textarea {
+    height: 200px;
+}

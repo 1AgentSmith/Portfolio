@@ -1,0 +1,18 @@
+.remoteJobContainer {
+    height: 40vh;
+    background-color: #8ff1db;
+}
+
+.blockRemoteJob{
+    flex-direction: column;
+    justify-content: space-around;
+}
+.blockRemoteJob h3{
+    background-color: silver;
+}
+
+.blockRemoteJob button {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
