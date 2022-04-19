@@ -7,7 +7,7 @@ export const Projects = () => {
     const projectInfo = [
         {
             name: 'Counter',
-            linkUrl: 'https://valeriivakalov.github.io/Counter/',
+            linkUrl: 'https://1agentsmith.github.io/Counter/',
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores corporis deleniti ducimus,',
             id: 0,
         },
@@ -19,7 +19,7 @@ export const Projects = () => {
         },
         {
             name: 'To do list',
-            linkUrl: 'https://valeriivakalov.github.io/Todolist/',
+            linkUrl: 'https://1agentsmith.github.io/Todolist/',
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores corporis deleniti ducimus,',
             id: 2,
         },

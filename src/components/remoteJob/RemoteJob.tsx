@@ -7,7 +7,7 @@ export const RemoteJob = () => {
     return(
         <div className={style.remoteJobContainer}>
             <div className={`${styleContainer.container} ${style.blockRemoteJob}`}>
-                <h2> Сonsidering options for remote work</h2>
+                <h2>Considering options for remote work</h2>
                 <button>Hire me</button>
             </div>
         </div>
